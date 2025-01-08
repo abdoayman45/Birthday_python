@@ -1,0 +1,1 @@
+age = self.the_date_today - oked_date
